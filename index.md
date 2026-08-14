@@ -10,7 +10,7 @@ summary: "Am Ende des Tages sind die wahren Blinden oft wir. Wenn ich eines von 
 source: pfarrplaner
 source_id: "77@www.pfarrplaner.de"
 cover_alt: "Titelbild zur Predigt \"Herr, dass ich sehen kann!\"."
-audio: audio.mp3
+audio: herr-dass-ich-sehen-kann.mp3
 audio_duration: "18:36"
 legacy_id: 77
 events:
